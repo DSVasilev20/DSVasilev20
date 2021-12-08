@@ -8,6 +8,7 @@
 - ⚡ Fun fact: No one likes C++
 
 <br />
+<hr>
 
 ### Languages and Tools:
 
@@ -21,5 +22,6 @@
 
 <br />
 <br />
+<hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSVasilev20&count_private=true&show_icons=true&theme=outrun&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
