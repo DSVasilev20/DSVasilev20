@@ -24,7 +24,6 @@
 
 <br />
 <br />
-<hr>
 
 <details>
     <summary><b>💯 Stats</b></summary>
