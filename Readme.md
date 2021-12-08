@@ -1,11 +1,14 @@
-### Hi there, I'm Dimitar Vasilev👋
 
+### Hi there, I'm Dimitar Vasilev👋
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=DSVasilev20&label=Profile%20views&color=0e75b6&style=flat-square" alt="DSVasilev20" /> </h1>
+<img align="right" src="https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif" width="280">
 ## I'm a student developer!
 
 - ⚡ I’m currently learning
 - ⚡ I’m looking for job opportunities
 - ⚡ 2021 Goals: Improve my skills
 - ⚡ Fun fact: No one likes C++
+
 
 <br />
 <hr>
@@ -24,4 +27,13 @@
 <br />
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSVasilev20&count_private=true&show_icons=true&theme=outrun&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+    <summary><b>💯 Stats</b></summary>
+    <img alt="Grade" src="https://github-readme-stats.vercel.app/api?username=DSVasilev20&show_icons=true&theme=radical&count_private=true">
+</details>
+
+<details>
+    <summary><b>🏆 Badges</b></summary>
+    <a href ="https://www.credly.com/earner/earned/badge/550e5a39-0fe1-4bea-91a1-11893475e92e"><img align="left" alt="HTML and CSS" width="200px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+   <a href ="https://www.credly.com/earner/earned/badge/11ab2f62-a461-4dd8-b74d-86e48b514ba6"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+</details>
