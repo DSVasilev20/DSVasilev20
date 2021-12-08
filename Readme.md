@@ -1,7 +1,6 @@
 
 ### Hi there, I'm Dimitar Vasilev👋
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=DSVasilev20&label=Profile%20views&color=0e75b6&style=flat-square" alt="DSVasilev20" /> </h1>
-<img align="right" src="https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif" width="280">
 ## I'm a student developer!
 
 - ⚡ I’m currently learning
