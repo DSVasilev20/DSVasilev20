@@ -3,12 +3,6 @@
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=DSVasilev20&label=Profile%20views&color=0e75b6&style=flat-square" alt="DSVasilev20" /> </h1>
 ## I'm a student developer!
 
-- ⚡ I’m currently learning
-- ⚡ I’m looking for job opportunities
-- ⚡ 2021 Goals: Improve my skills
-- ⚡ Fun fact: No one likes C++
-
-
 <br />
 <hr>
 
